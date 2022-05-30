@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity } from "react-native";
+import { TouchableOpacity } from "react-native";
 import React, { useContext } from "react";
 import { FavouritesContext } from "../../services/favourites/favourites.context";
 import styled from "styled-components/native";
